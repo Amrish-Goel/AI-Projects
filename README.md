@@ -16,3 +16,5 @@ Projects done in the Artificial Intelligence Course during Masters at USC
 ## Navigating Autonomous Car(Using Markov Decision Process(MDP))
 1. Description: Navigate the autonomous car without getting hit on obstacles and earning maximum money. Each block has a positive value which is basically money and obstacles have losses too. Objective is to drive car along the matrix to get maximum money.
 2. Rest of the description can be found under description.pdf under Navigating Autonomous Car folder.
+3. max_reward.py: Used Policy Iteration as well as Value Iteration to get the best policy and based on that policy simulated the car to move with probabilites of going either in direction according to policy or other directions.
+4. Sample inpiut and output are given.
