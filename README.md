@@ -9,4 +9,5 @@ Projects done in the Artificial Intelligence Course during Masters at USC
 
 ## Serving homeless community(Using game-playing algorithms)
 1. Description: Two communities LAHSA(Homeless community), SPLA(Parking LA community) providing bed spaces as well parking spaces for homeless people and optimizing the spaces based on constraints and giving each other alternate turns to choose the best candidate(game playing algorithm)
-2. 
+2. Rest of the description can be found under description.pdf under Serving Homeless community folder.
+3. game_playing_algo.py: Implemented alternate turn game playing algo which optimizes the best candidate to choose so that bed spaces and parking lots are filled optimally.
